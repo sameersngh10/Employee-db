@@ -1,4 +1,4 @@
-# Employee-db
+# Employee Database
 This SQL script creates four tables (employees, departments, dept_emp, titles, and salaries) and inserts dummy data into them.
 
 Here's a brief description of each table:
